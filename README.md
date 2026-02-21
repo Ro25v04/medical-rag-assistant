@@ -148,8 +148,6 @@ http://127.0.0.1:8080
 - User authentication layer  
 - Logging & monitoring  
 - Multi-document ingestion  
-- Medical knowledge validation layer  
-
 ---
 
 ## Key Skills Demonstrated
